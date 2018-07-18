@@ -94,7 +94,7 @@ Authors: Minsuk Kahng, Nikhil Thorat, Duen Horng Chau, Fernanda Viegas, Martin W
 
 **GraphProtector: a Visual Interface for Employing and Assessing Multiple Privacy Preserving Graph Algorithms**
  <br/> 
-Authors: Xumeng Wang, Wei Chen, Huihua Guan, Wenlong Chen, Rusheng Pan, Jia-Kai Chou, Kwan-Liu Ma
+Authors: Xumeng Wang, Wei Chen, Jia-Kai Chou, Chris Bryan, Huihua Guan, Wenlong Chen, Rusheng Pan and Kwan-Liu Ma
 
 **Identification of Temporally Varying Areas of Interest in Long Duration Eye Tracking Data Sets**
  <br/> 
